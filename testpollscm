@@ -4,3 +4,4 @@ ifconfig
 uptime
 cat /etc/fstab
 cat /etc/passwd
+echo "this is my data"
