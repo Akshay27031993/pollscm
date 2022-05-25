@@ -1,4 +1,5 @@
 date
+cat /etc/group
 ifconfig
 uptime
 cat /etc/fstab
