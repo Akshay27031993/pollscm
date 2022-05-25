@@ -1,1 +1,5 @@
 date
+ifconfig
+uptime
+cat /etc/fstab
+cat /etc/passwd
